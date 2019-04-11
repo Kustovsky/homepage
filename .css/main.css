@@ -1,0 +1,32 @@
+.searchform{
+    padding-top: 4px;
+}
+.vk {
+    height: 28px
+}
+.reddit{
+    height: 30px;
+}
+#MyClockDisplay{
+    display: inline-block;
+    align-content: center;
+    font-size: 22pt;
+    color: white;
+    font-family: 'Source Code Pro Medium';
+    padding-bottom: 5px;
+}
+.container.clock{
+    padding-left: 22%;
+    padding-right: 22%;
+}
+.container{
+    margin-top: 20px
+}
+.contentCard.card.bg-secondary.text-white{
+    width: 49%;
+    display: inline-flex;
+    margin-top: 2px;
+}
+.text-white{
+    text-align: center;
+}
